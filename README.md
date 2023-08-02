@@ -1,6 +1,6 @@
 # Shopping Website PHP
 
-##Tech Stack
+## Tech Stack
 - PHP
 - HTML
 - CSS
